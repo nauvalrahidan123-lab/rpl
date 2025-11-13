@@ -1,0 +1,5 @@
+{
+  "name": "Talenta Art Studio",
+  "description": "A web application for Talenta Art Studio, showcasing a collection of traditional Indonesian costumes for rent. Users can browse the collection, view community testimonials, and join the community by creating an account.",
+  "requestFramePermissions": []
+}
